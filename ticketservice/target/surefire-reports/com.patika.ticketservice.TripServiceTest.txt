@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.patika.ticketservice.TripServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.66 s <<< FAILURE! - in com.patika.ticketservice.TripServiceTest
+com.patika.ticketservice.TripServiceTest  Time elapsed: 0.66 s  <<< ERROR!
+java.lang.NoSuchMethodError: 'org.junit.jupiter.api.extension.ExecutableInvoker org.junit.jupiter.api.extension.ExtensionContext.getExecutableInvoker()'
+
